@@ -24,6 +24,10 @@ header h2 a.lt_header_rt {
   color: #fff;
   float: right;
 }
+header h2 a.lt_header_lf {
+  color: #fff;
+  float: left;
+}
 footer {
   position: fixed;
   bottom: 0;
