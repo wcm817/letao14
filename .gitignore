@@ -36,3 +36,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# 忽略 端口文件和db.js
+bin/www
+models/db.js  
